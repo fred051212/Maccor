@@ -6,7 +6,7 @@ Input Data
 Notebook Files:
   VoltageProfile_Comment.ipynb: Extracts the active mass value directly from a 'comment' field where the mass is input at the start of a test.
   VoltageProfile_NoComment.ipynb: Requires manual input of the active mass for specific capacity calculations.
-    Output: Saves cycle-specific voltage profile plots as PNG images, displaying voltage versus specific capacity (mAh/cm²).
+Output: Saves cycle-specific voltage profile plots as PNG images, displaying voltage versus specific capacity (mAh/cm²).
 
 Usage
   Data Preparation:
