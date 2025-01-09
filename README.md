@@ -1,6 +1,6 @@
 Input Data
   TXT files exported from Maccor Data Analysis Software (MIMS Client 2).
-
+* Please note that file export must be done through MIMS 2 not 1.
 ![image](https://github.com/user-attachments/assets/77af57e6-c61b-424c-9b1e-13e58c7e4f37)
 
 Notebook Files:
